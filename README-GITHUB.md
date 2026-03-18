@@ -118,7 +118,7 @@ Users (auth users, sellers, buyers, admins)
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gameverse.git
+git clone https://github.com/chidoxbma/gameverse.git
 cd gameverse
 ```
 
@@ -463,19 +463,19 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Author
 
-**Your Name/Team**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Rachid Bouselama**
+- GitHub: [@chidoxbma](https://github.com/chidoxbma)
+- Email: bmarachid@gmail.com
+- LinkedIn: [Rachid Bouselama](https://www.linkedin.com/in/rachid-bouselama-346575248/)
 
 ---
 
 ## 🙋 Support & Issues
 
 Have questions or found a bug? 
-- **Report Issues**: [GitHub Issues](https://github.com/yourusername/gameverse/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/gameverse/discussions)
-- **Email Support**: support@gameverse.com
+- **Report Issues**: [GitHub Issues](https://github.com/chidoxbma/gameverse/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/chidoxbma/gameverse/discussions)
+- **Email Support**: bmarachid@gmail.com
 
 ---
 

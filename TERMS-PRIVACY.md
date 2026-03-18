@@ -139,7 +139,7 @@ California residents have specific data privacy rights:
 **Do Not Sell My Personal Information:**
 We do NOT sell or share personal information with third parties for their marketing purposes.
 
-To submit a request, email: `privacy@gameverse.com` with "CCPA Request" in subject.
+To submit a request, email: `bmarachid@gmail.com` with "CCPA Request" in subject.
 
 ### 8. Children's Privacy
 
@@ -150,15 +150,15 @@ If we discover that a child has provided us with personal data without parental 
 2. Delete all collected information
 3. Take corrective actions
 
-If you believe we have collected data from a minor, contact: `legal@gameverse.com`
+If you believe we have collected data from a minor, contact: `bmarachid@gmail.com`
 
 ### 9. Contact Us
 
 For privacy-related inquiries, contact:
 
-📧 Email: `privacy@gameverse.com`  
-🏢 Address: [Your Company Address]  
-📱 Phone: [Support Number]
+📧 Email: `bmarachid@gmail.com`  
+🏢 GitHub: [@chidoxbma](https://github.com/chidoxbma)  
+📱 LinkedIn: [Rachid Bouselama](https://www.linkedin.com/in/rachid-bouselama-346575248/)
 
 ---
 
@@ -391,9 +391,9 @@ Request data in machine-readable format (CSV, JSON) for transfer to other servic
 
 ## 📞 Questions?
 
-**Privacy Issues:** `privacy@gameverse.com`  
-**Legal Issues:** `legal@gameverse.com`  
-**General Support:** `support@gameverse.com`
+**Privacy Issues:** `bmarachid@gmail.com`  
+**Legal Issues:** `bmarachid@gmail.com`  
+**General Support:** `bmarachid@gmail.com`
 
 ---
 

@@ -4,7 +4,7 @@
 
 **DO NOT** create a public GitHub issue for security vulnerabilities. Instead:
 
-1. **Email us directly**: `security@gameverse.com`
+1. **Email us directly**: `bmarachid@gmail.com`
 2. **Include details**:
    - Type of vulnerability (SQL injection, XSS, etc.)
    - Location (file, line number, endpoint)

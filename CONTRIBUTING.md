@@ -50,7 +50,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 1. **Fork & Clone**
 ```bash
-git clone https://github.com/yourusername/gameverse.git
+git clone https://github.com/chidoxbma/gameverse.git
 cd gameverse
 ```
 
@@ -249,5 +249,6 @@ We follow Semantic Versioning:
 Thank you for your interest in improving GameVerse! 🎉
 
 Questions? Reach out to us:
-- 📧 Email: `dev@gameverse.com`
-- 💬 Discord: [GameVerse Dev Community](https://discord.gg/gameverse)
+- 📧 Email: `bmarachid@gmail.com`
+- 🐙 GitHub: [@chidoxbma](https://github.com/chidoxbma)
+- 👔 LinkedIn: [Rachid Bouselama](https://www.linkedin.com/in/rachid-bouselama-346575248/)
